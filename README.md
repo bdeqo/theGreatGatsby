@@ -6,9 +6,7 @@ Slightly improved version of [Gatsby JS - The Great Gatsby Bootcamp [Full Tutori
 
 - Displays both markdown and Contentful posts at the same time
 - Helmet location: page titles are passed through the `Layout` component
-
-How to run:
-^^^^^^^^^^^^^
+- 
 
 To run the application:
 
